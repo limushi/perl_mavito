@@ -1,6 +1,6 @@
 #!/usr/local/bin/perl
 # 2017-09-29, Max L.
-# программа для получения данных из Avito
+# программа для получения данных из Avito, тестовая версия
 # парсинг HTML: https://dev.w3.org/html5/spec-preview/parsing.html 
 
 use warnings;
