@@ -4,8 +4,9 @@
 # парсинг HTML: https://dev.w3.org/html5/spec-preview/parsing.html 
 
 use warnings;
-use LWP::UserAgent;
 use utf8;
+
+use LWP::UserAgent;
 use XML::Simple;	#типа, самое простое, что есть?, http://www.techrepublic.com/article/parsing-xml-documents-with-perls-xmlsimple/
 		# http://search.cpan.org/~grantm/XML-Simple-2.24/lib/XML/Simple.pm
 #use XML::DOM;	#https://www.xml.com/pub/a/2001/05/16/perlxml.html
