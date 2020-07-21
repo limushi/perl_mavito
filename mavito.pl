@@ -1,0 +1,4 @@
+#perl
+use warnings;
+
+;
