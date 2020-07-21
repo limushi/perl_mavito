@@ -1,4 +1,3 @@
 # perl_mavito
-Trace some info from site.
-Work with Windows 7.
-Later work with Debian 9.
+Trace some web info from site into plain text data (as example).
+Base work in Windows, alternative version for Linux.
