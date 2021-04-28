@@ -4,3 +4,5 @@ Base work in Windows, alternative version for Linux.
 ## plan
 Get data from source into SQLite file.
 Update tables for contacts, counts, activities.
+### todo
+Multiversion. Windows. Linux.
